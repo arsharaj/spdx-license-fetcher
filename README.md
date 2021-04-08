@@ -18,7 +18,7 @@ void main() async {
   // For fetching a single license.
   await spdx.SpdxIdentifier();
   // For Fetching multiple licenses at once.
-  await spdx.SpdxIdentifierMultiple(['AAL', 'MIT', 'GPL-1.0']);
+  await spdx.SpdxIdentifierMultiple(['MIT', 'Zed']);
 }
 
 ```
