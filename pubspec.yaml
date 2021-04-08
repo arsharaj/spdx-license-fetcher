@@ -1,6 +1,6 @@
 name: spdx_license_fetcher
 description: Fetches license file by its SPDX identifier and print it to the terminal as text.
-version: 0.1.0-alpha
+version: 0.1.1-alpha
 repository: https://github.com/arsharaj/spdx-license-fetcher
 issue_tracker: https://github.com/arsharaj/spdx-license-fetcher/issues
 
